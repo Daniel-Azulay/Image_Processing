@@ -1,0 +1,1839 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing double
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.5cm
+\topmargin 2cm
+\rightmargin 1.5cm
+\bottommargin 2.5cm
+\headheight 0.5cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\numeric on
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\series bold
+\size largest
+עיבוד תמונה - תרגיל
+\family roman
+\shape up
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\family roman
+\shape up
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ 
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+דניאל אזולאי ת
+\begin_inset Quotes erd
+\end_inset
+
+ז
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+311119895
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+today{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+)
+\numeric on
+3.1
+\numeric off
+(
+\family roman
+\shape up
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang english
+Image Alignment
+\end_layout
+
+\begin_layout Standard
+מימין התמונה המקורית )של השחקן ששון גבאי(, ומשמאל התמונה המיושרת:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/danie/Desktop/Uni/YearD/Image_Processing/impr_ex5/sasson.jpg
+	lyxscale 51
+	scale 25
+
+\end_inset
+
+ 
+\begin_inset Formula $\qquad\qquad$
+\end_inset
+
+
+\begin_inset Graphics
+	filename C:/Users/danie/Desktop/Uni/YearD/Image_Processing/impr_ex5/sasson_aligned.jpg
+	lyxscale 25
+	scale 11
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+)
+\numeric on
+3.2
+\numeric off
+(
+\family roman
+\shape up
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang english
+GAN Inversion
+\end_layout
+
+\begin_layout Standard
+נציג כמו בהוראות,
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+6
+\numeric off
+ תמונות משמאל לימין.
+ החל מהתמונה שמייצגת את 
+\begin_inset Formula $z$
+\end_inset
+
+ ההתחלתית )משמאל(, אחריה 
+\numeric on
+3
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+תמונות 
+\end_layout
+
+\begin_layout Standard
+נבחרות מתוך התהליך לפי הסדר שהתקבלו בתהליך, אחריהן )שניה מימין( את התמונה
+ שהתקבלה בסיום התהליך,
+\end_layout
+
+\begin_layout Standard
+ולבסוף מימין את התמונה המקורית של ששון גבאי לצורך השוואה.
+\end_layout
+
+\begin_layout Standard
+השארתי בסעיף זה את הפרמטרים הדיפולטיביים שקיבלנו למספר האיטרציות )
+\numeric on
+1000
+\numeric off
+( ול- 
+\begin_inset Formula $latent\_dist\_reg\_weight$
+\end_inset
+
+ )
+\numeric on
+0.001
+\numeric off
+( .
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/danie/Desktop/Uni/YearD/Image_Processing/impr_ex5/sasson_aligned.jpg
+	lyxscale 25
+	scale 8
+
+\end_inset
+
+
+\begin_inset Formula $\;$
+\end_inset
+
+
+\begin_inset Graphics
+	filename C:/Users/danie/Desktop/Uni/YearD/Image_Processing/impr_ex5/final_inverted_image.png
+	lyxscale 25
+	scale 8
+
+\end_inset
+
+
+\begin_inset Formula $\;$
+\end_inset
+
+
+\begin_inset Graphics
+	filename intermidiate_400_not_degraded.png
+	lyxscale 25
+	scale 8
+
+\end_inset
+
+
+\begin_inset Formula $\;$
+\end_inset
+
+
+\begin_inset Graphics
+	filename intermidiate_200_degraded.png
+	lyxscale 25
+	scale 8
+
+\end_inset
+
+
+\begin_inset Formula $\;$
+\end_inset
+
+
+\begin_inset Graphics
+	filename intermidiate_100_degraded.png
+	lyxscale 25
+	scale 8
+
+\end_inset
+
+
+\begin_inset Formula $\;$
+\end_inset
+
+
+\begin_inset Graphics
+	filename C:/Users/danie/Desktop/Uni/YearD/Image_Processing/impr_ex5/intermidiate_0_not_degraded.png
+	lyxscale 25
+	scale 8
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+בתהליך אכן ניתן לראות שהוא מתחיל מתמונה שנוצרת מרעש, 
+\end_layout
+
+\begin_layout Standard
+בתמונה השניה משמאל ניתן לראות כבר מבנה פנים כללי שמזכיר את ששון גבאי,
+\end_layout
+
+\begin_layout Standard
+בתמונה השלישית כבר האיש נעשה בוגר יותר והשיער מקבל צורה קצת יותר דומה,
+\end_layout
+
+\begin_layout Standard
+בתמונה הבאה צבע העור יותר מתאים, העיניים הרבה יותר דומות, וכל התמונה כבר
+ מזכירה את ששון גבאי,
+\end_layout
+
+\begin_layout Standard
+ובתמונה מסוף התהליך הפרטים הקטנים כבר הותאמו )צבע שיער כהה יותר, פחות צל
+ באזור הסנטר(.
+\end_layout
+
+\begin_layout Standard
+עם זאת יש בהחלט פרטים שמבדילים מהתמונה המקורית, למשל נעלמו נקודות החן באזור
+ העין השמאלית בתמונה.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+גרף ה-
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang english
+optimization loss
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang hebrew
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+שהתקבל כפונקציה של מספר האיטרציות:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename optimization_loss_1.png
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+כעת נציג תוצאות שונות כאשר משנים את הפרמטר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang english
+latent_dist_reg_weight
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang hebrew
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+, שהוא גורם רגולריזציה כך שככל שהוא גדל, 
+\end_layout
+
+\begin_layout Standard
+השוני בין פרדיקציות שונות קטן.
+ נציג משמאל את התמונה המקורית של ששון גבאי, ולצידו נציג את התמונות שהתקבלו
+ עבור
+\end_layout
+
+\begin_layout Standard
+ערכי הפרמטר 
+\begin_inset Formula $0,0.001,1,10$
+\end_inset
+
+ בהתאמה )הפרמטר גדל מהתמונה השמאלית לימנית( :
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Formula $ $
+\end_inset
+
+
+\begin_inset Graphics
+	filename sasson_inverted_10.png
+	lyxscale 25
+	scale 9
+
+\end_inset
+
+
+\begin_inset Formula $\quad$
+\end_inset
+
+
+\begin_inset Graphics
+	filename sasson_inverted_1.png
+	lyxscale 25
+	scale 9
+
+\end_inset
+
+
+\begin_inset Formula $\quad$
+\end_inset
+
+
+\begin_inset Graphics
+	filename final_inverted_image.png
+	lyxscale 25
+	scale 9
+
+\end_inset
+
+
+\begin_inset Formula $\quad$
+\end_inset
+
+
+\begin_inset Graphics
+	filename sasson_inverted_0.png
+	lyxscale 25
+	scale 9
+
+\end_inset
+
+
+\begin_inset Formula $\quad$
+\end_inset
+
+
+\begin_inset Graphics
+	filename sasson_aligned.jpg
+	lyxscale 25
+	scale 9
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+)כאשר גם הורדתי את מספר האיטרציות ל-
+\numeric on
+700
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+כדי להקל על זמני החישוב, שכן ההבדלים שקיבלתי בין
+\end_layout
+
+\begin_layout Standard
+
+\numeric on
+700
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ל-
+\numeric on
+1000
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+איטרציות לא משמעותיים(.
+ בהגדלת הפרמטר הזה המודל נענש יותר על פרדיקציות שונות מהממוצע, ואז עבור
+ תמונות
+\end_layout
+
+\begin_layout Standard
+שונות נקבל תוצאות אשר דומות יותר לממוצע )ובהתאם גם דומות יותר אחת לשניה
+ ופחות מותאמות לקלט(.
+ ואכן ניכר כאן
+\end_layout
+
+\begin_layout Standard
+שככל שמבוצעת יותר רגולריזציה בעזרת פרמטר זה, מקבלים תמונות של אדם שנראה
+ צעיר יותר מששון גבאי.
+\end_layout
+
+\begin_layout Standard
+לעומת זאת, הקטנת מספר האיטרציות משפיעה על כמה המודל מספיק ללמוד, אך פחות
+ משפיעה על היחס בין תמונות
+\end_layout
+
+\begin_layout Standard
+שמקבלים בפרדיקציות של תמונות שונות: התמונות שמתקבלות עדיין יכולות להיות
+ שונות מאוד אחת מהשניה בין תמונות
+\end_layout
+
+\begin_layout Standard
+מקור שונות, אך במספר איטרציות קטן המודל לא מספיק לפעפע את כל הפרטים ל-
+\begin_inset Formula $z$
+\end_inset
+
+ באיטרציות של 
+\begin_inset Formula $SGD$
+\end_inset
+
+, וכך בעצם 
+\end_layout
+
+\begin_layout Standard
+לא מוצא את 
+\begin_inset Formula $z$
+\end_inset
+
+ האופטימלי )כלומר במספר איטרציות קטן, ה-
+\lang english
+loss
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang hebrew
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+נשאר עדיין במגמת ירידה(.
+\end_layout
+
+\begin_layout Standard
+במקרה הנ
+\begin_inset Quotes erd
+\end_inset
+
+ל הורדתי את מספר האיטרציות ל-
+\numeric on
+700
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+כי התהליך כבר יחסית התייצב לאחר מספר זה.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+)
+\numeric on
+3.3.1
+\numeric off
+(
+\family roman
+\shape up
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang english
+Image Deblurring
+\end_layout
+
+\begin_layout Standard
+התוצאות שקיבלתי על התמונה שאני בחרתי )אותה תמונה של ששון גבאי(:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename sasson_deblurred_kernel_101.png
+	lyxscale 85
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+תוצאה זו התקבלה עבור טשטוש עם קרנל בגודל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+101
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ , ופרמטר 
+\begin_inset Formula $latent\_dist\_reg\_weight=0.001$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+על אף הטשטוש החזק שביצעתי, ניכר כי התמונה המשוחזרת חדה כמעט כמו המקורית.
+ היא אמנם שונה ממנה בפרטים הקטנים,
+\end_layout
+
+\begin_layout Standard
+אך סה
+\begin_inset Quotes erd
+\end_inset
+
+כ לדעתי זה עדיין נראה דומה לששון גבאי.
+ התמונו המטושטשות כמובן נראות יותר דומות )כי הלוס נמדד על פי הדמיון ביניהן(.
+\end_layout
+
+\begin_layout Standard
+בחרתי קרנל כ
+\begin_inset Quotes erd
+\end_inset
+
+כ גדול כדי לוודא שהטשטוש מספיק חזק, על מנת שיהיה קל להבחין מה מטושטש ומה
+ לא.
+ זה כמובן בא על חשבון 
+\end_layout
+
+\begin_layout Standard
+הפרטים העדינים, שמשוחזרים באופן פחות מדוייק - למשל השיער של הדמות שקיבלנו
+ יותר אחיד ומלא מעל המצח )אמנם זה קרה 
+\end_layout
+
+\begin_layout Standard
+גם בשחזור שעשיתי קודם ללא טשטוש, אך באופן פחות בולט מאשר כאן(.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+התוצאה שקיבלתי על התמונה של
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang english
+Yann LeCun
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang hebrew
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename yann_deblurred_kernel_101_ldrw_0_001.png
+	lyxscale 85
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+תוצאה זו התקבלה עם הפרמטרים 
+\begin_inset Formula $kernel\_size=101\;,\;latent\_dist\_reg\_weight=0.001$
+\end_inset
+
+ .
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+בחירת היפר-פרמטרים + האתגרים שפגשתי:
+\end_layout
+
+\begin_layout Standard
+בסעיף זה פגשתי את מירב האתגרים.
+ 
+\end_layout
+
+\begin_layout Standard
+מעבר לאתגרי המימוש שהיו לי בלמידה איך לעבוד עם טנזורים ואיך להתממשק לקוד
+ שקיבלנו,
+\end_layout
+
+\begin_layout Standard
+חשבתי שיש לי בעיה בקוד כי התמונה המשוחזרת יצאה מטושטשת.
+ אך כאשר חקרתי את זה קצת ושיניתי היפר-פרמטרים,
+\end_layout
+
+\begin_layout Standard
+ראיתי שבעצם הטשטוש שהגדרתי היה עדין מדי )ניסיתי בהתחלה עם קרנל בגודל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang english
+3/5/7
+\lang hebrew
+( לעומת הטשטוש הקיים בתמונה הנתונה.
+\end_layout
+
+\begin_layout Standard
+זה גרם לכך שהתמונה המשוחזרת יוצאת מטושטשת, כי אחרת אם התמונה המשוחזרת הייתה
+ יוצאת חדה, אז כיוון שהטשטוש
+\end_layout
+
+\begin_layout Standard
+שהגדרתי הוא עדין, התמונה המטושטשת שמתקבלת מהתמונה החדה לא הייתה יוצאת דומה
+ לתמונה הנתונה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+, וכאמור הלוס
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+נמדד על פי הדמיון בין התמונה המטושטשת שיצרנו לבין התמונה הנתונה, שכבר נתונה
+ כמטושטשת.
+\end_layout
+
+\begin_layout Standard
+מבחינה כרונולוגית זה בוצע לפני ה-
+\lang english
+deblur
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang hebrew
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+של התמונה של ששון גבאי, ומכך למדתי גם ויישמתי על התמונה ההיא, שבשביל לקבל
+\end_layout
+
+\begin_layout Standard
+תוצאות עם הבדל ניכר יותר כדאי לטשטש טשטוש עם קרנל גדול .
+\end_layout
+
+\begin_layout Standard
+לבסוף משחק עם ההיפר-פרמטר 
+\begin_inset Formula $latent\_dist\_reg\_weight$
+\end_inset
+
+ לא היה נדרש כאן ולא עזר לדעתי )ויזואלית כשהסתכלתי על התוצאות
+\end_layout
+
+\begin_layout Standard
+עם ערכים גבוהים יותר הן לא היו יותר טובות(, כי התמונה שהתקבלה עם הערך
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+0.001
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+נראית תמונה של בן אדם אמיתי בסוג טשטוש זה,
+\end_layout
+
+\begin_layout Standard
+ושמירה על פרמטר זה נמוך מאפשרת לקבל תמונה שהטשטוש שלה יחסית דומה לתמונה
+ המקורית.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+)
+\numeric on
+3.3.2
+\numeric off
+(
+\family roman
+\shape up
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang english
+Image Colorization
+\end_layout
+
+\begin_layout Standard
+אחרי שצלחתי את המשימה הקודמת ולמדתי איך בדיוק לערוך את הקוד הנתון ואיך להשתמש
+ בטנזורים בכלל,
+\end_layout
+
+\begin_layout Standard
+רוב האתגרים שהיו לי מכאן והלאה היו בעיקר אתגרים של בחירת פרמטרים.
+\end_layout
+
+\begin_layout Standard
+התוצאות שקיבלתי על התמונה שאני בחרתי )אותה תמונה של ששון גבאי(:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename sasson_colorization_ldrw_0.3.png
+	lyxscale 85
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+תוצאה זו התקבלה עם הפרמטר 
+\begin_inset Formula $latent\_dist\_reg\_weight=0.3$
+\end_inset
+
+ .
+ הצבעים עדיין לא מדהימים )ניתן לראות קצת ירוק מתחת לעיניים(,
+\end_layout
+
+\begin_layout Standard
+אך בחרתי אותה כי אהבתי כאן שיחסית צבע העור המשוחזר כן יצא דומה לתמונה המקורית.
+ 
+\end_layout
+
+\begin_layout Standard
+הייתי חייב להגדיל פרמטר זה על-מנת לקבל צבעים טובים, כלומר צבעים שמתאימים
+ לאנשים אמיתיים,
+\end_layout
+
+\begin_layout Standard
+כי למשל כאשר השתמשתי בערך
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+0.001
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בפרמטר זה קיבלתי צבעים ירוקים:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ill_sasson.png
+	lyxscale 60
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+והגדלת הפרמטר אכן עוזרת, כי התמונה המתקבלת תהיה עם שונות קטנה יותר מהממוצע
+ של התמונות עליהן הרשת אומנה,
+\end_layout
+
+\begin_layout Standard
+וכמובן שהתמונות הללו מתקבלות מצבעים של אנשים אמיתיים ולא אנשים ירוקים.
+\end_layout
+
+\begin_layout Standard
+כדי לקבל צבע עוד יותר דומה לצבע של אנשים אמיתיים ממה שקיבלתי, שכאמור לא
+ מיטבי מבחינת הצבעים, 
+\end_layout
+
+\begin_layout Standard
+ניתן להגדיל עוד את הפרמטרף התוצאה הבאה התקבלה עם הפרמטר 
+\begin_inset Formula $latent\_dist\_reg\_weight=0.5$
+\end_inset
+
+ :
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename sasson_colorization_ldrw_0.5.png
+	lyxscale 85
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+וכאן הצבעים המתקבלים אכן יותר טובים מבחינה אובייקטיבית כתמונה של בן אדם,
+ אך יצא לו גוון עור שונה כאן 
+\end_layout
+
+\begin_layout Standard
+)דבר שסביר שיקרה, שוב, כי הלוס מחושב על התמונות האפורות(, ולכן בחרתי דווקא
+ בגירסה השניה.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+התוצאות שקיבלתי על התמונה של אלן טיורינג - כאשר בחרתי בפרמטר 
+\begin_inset Formula $latent\_dist\_reg\_weight=0.5$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename alan_colorization_ldrw_0.5.png
+	lyxscale 85
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+וניתן לראות שהגבה הימנית כאן אכן שונה קצת, אך סה
+\begin_inset Quotes erd
+\end_inset
+
+כ יצאה תמונה די דומה לתמונה המקורית
+\end_layout
+
+\begin_layout Standard
+מבחינת הפרטים שאינם הצבע, והצבעים נראים טוב מאוד.
+ 
+\end_layout
+
+\begin_layout Standard
+עבור ערך נמוך יותר לפרמטר 
+\begin_inset Formula $latent\_dist\_reg\_weight$
+\end_inset
+
+ )
+\numeric on
+0.001
+\numeric off
+( קיבלתי יותר את טיורינג מבחינת השחור לבן, 
+\end_layout
+
+\begin_layout Standard
+אך השפתיים די ירוקות והפנים ירקרקות קצת, ועבור ערך גבוה )
+\numeric on
+10
+\numeric off
+( קיבלתי תמונה יפהפיה עם צבעים מאוד אנושיים,
+\end_layout
+
+\begin_layout Standard
+של דמות שלא מזכירה ממש את טיורינג.
+ התוצאות של שני הערכים הללו לפניכם:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename alan_colorization_ldrw_0.001.png
+	lyxscale 60
+	scale 50
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename turing_colorization_ldrw_10.png
+	lyxscale 60
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size larger
+)
+\numeric on
+3.3.3
+\numeric off
+(
+\family roman
+\shape up
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang english
+Image Inpainting
+\end_layout
+
+\begin_layout Standard
+בסעיף זה לא נתקלתי בקשיים מיוחדים - סה
+\begin_inset Quotes erd
+\end_inset
+
+כ המימוש שלו די פשוט )הכפלת התמונה במסכה(
+\end_layout
+
+\begin_layout Standard
+התוצאות שקיבלתי על התמונה שאני בחרתי )אותה תמונה של ששון גבאי(:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename sasson_inpainting_ldrw_0.1.png
+	lyxscale 85
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+תוצאה זו התקבלה עם הפרמטר 
+\begin_inset Formula $latent\_dist\_reg\_weight=0.1$
+\end_inset
+
+ .
+ השחזור אמנם איננו מדוייק אך נראה לא רע.
+\end_layout
+
+\begin_layout Standard
+שוב גם כאן זה התקבל לאחר משחק עם ערכי הפרמטר כך שמצד אחד השחזור ייראה אמין
+ באזור המכוסה, 
+\end_layout
+
+\begin_layout Standard
+ומצד שני שהדמות תיראה דומה לששון גבאי.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+התוצאות שקיבלתי על התמונה של
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang english
+fe fe li
+\lang hebrew
+ - כאשר השתמשתי בפרמטר 
+\begin_inset Formula $latent\_dist\_reg\_weight=0.3$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename fefe_inpainting_ldrw_0.3.png
+	lyxscale 85
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+גם כאן השחזור לא יצא הכי מדוייק, אך בערכים שונים קיבלתי שהעין שמתקבלת יותר
+ עצומה, ולכן בחרתי את ערך זה.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+למשל עבור 
+\begin_inset Formula $latent\_dist\_reg\_weight=0.5$
+\end_inset
+
+ קיבלתי:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename fefe_inpainting_ldrw_0.5.png
+	lyxscale 85
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
